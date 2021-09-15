@@ -1,4 +1,4 @@
-### isLinXu no Linux 👋
+### LinXu not Linux
 
 <!--
 **isLinXu/isLinXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,8 +34,11 @@ Here are some ideas to get you started:
     <a href="https://www.zhihu.com/people/zhanghang0704"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
     <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
   </p> 
-额外Pin Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isLinXu&repo=isLinXu)](https://github.com/anuraghazra/github-readme-stats)
+    额外Pin Card
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isLinXu&repo=isLinXu)](https://github.com/anuraghazra/github-readme-stats)
+  
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true)
+
 - -->
 
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
@@ -56,16 +59,10 @@ Here are some ideas to get you started:
     </td>
     <td width="45%">
         <p align="left"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=isLinXu" alt="Linxu" /> 
+            <img src="https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true" alt="Linxu" /> 
         </p>
     </td>
    </tr>
 </tbody>
 </table>
-
-
-
-
-
-
 
