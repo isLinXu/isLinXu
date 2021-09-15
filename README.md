@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     </p>
     </td>
     <td width="45%">
-        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&include_all_commits=true&count_private=true" alt="zhanghang1989" /> </p>
+        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&include_all_commits=true&count_private=true" alt="linxu" /> </p>
     </td>
    </tr>
 </tbody>
