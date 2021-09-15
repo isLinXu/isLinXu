@@ -37,16 +37,9 @@ Here are some ideas to get you started:
 
 - -->
 
-
-
-
-
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
 <tbody>
   <tr>
-    <td width="30%">
-        <a href="https://images.cnblogs.com/cnblogs_com/lx17746071609/1552661/o_210915025014head.png"><img alt="Lin Xu" src="Lin Xu" width="160" border="1"></a>
-    </td>
     <td>
     <p> 
         I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer<span> 
