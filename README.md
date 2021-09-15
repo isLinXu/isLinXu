@@ -34,7 +34,8 @@ Here are some ideas to get you started:
     <a href="https://www.zhihu.com/people/zhanghang0704"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
     <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
   </p> 
-
+额外Pin Card
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isLinXu&repo=isLinXu)](https://github.com/anuraghazra/github-readme-stats)
 - -->
 
 <table width="100%" border="0" cellspacing="15" cellpadding="0">
@@ -61,6 +62,8 @@ Here are some ideas to get you started:
    </tr>
 </tbody>
 </table>
+
+
 
 
 
