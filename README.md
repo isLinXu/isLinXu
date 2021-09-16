@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <a href="https://islinxu.github.io/"> <img src="https://img.shields.io/badge/&#8459-homepage-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Hang Zhang">
     </p> 
 
-- -->、
+- -->
 
 <p> 
 <a href="https://github.com/isLinXu?tab=followers"> <img src="https://img.shields.io/github/followers/isLinXu?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
