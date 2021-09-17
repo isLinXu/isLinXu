@@ -78,28 +78,16 @@ Here are some ideas to get you started:
 <a href="https:"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
-<table width="100%" border="0" cellspacing="15" cellpadding="0">
-<tbody>
-  <tr>
-    <td>
-    <p> 
-        💬 About me: <br/>
-        I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer<span> 
-        at <span property="affiliation">HXZH</span>.
-        Before joining HXZH, I also worked/interned with Keeko. <br/>
-        🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc <br/>
-        🔭 I’m currently working on abnormal defect detection and target detection <br/>
-        📫 How to reach me: <br/>
-        e-mail address->17746071609@163.com <br/>
-        blos's address-> https://www.cnblogs.com/lx17746071609/
-    </p>
-    </td>
-    <td width="45%">
-        <p align="left"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true&show_icons=true" alt="Linxu" /> 
-        </p>
-    </td>
-   </tr>
-</tbody>
-</table>
+<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
+
+💬 About me: 
+I am Lin Xu  (林旭), a AI Engineer at HXZH.
+Before joining HXZH, I also worked/interned with Keeko. 
+🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc 
+🔭 I’m currently working on abnormal defect detection and target detection 
+📫 How to reach me: 
+e-mail address->17746071609@163.com 
+blos's address-> https://www.cnblogs.com/lx17746071609/
+
+---
 
