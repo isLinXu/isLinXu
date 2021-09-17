@@ -42,7 +42,31 @@ Here are some ideas to get you started:
 - <p> 
     <a href="https://islinxu.github.io/"> <img src="https://img.shields.io/badge/&#8459-homepage-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Hang Zhang">
     </p> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true)
+    <table width="100%" border="0" cellspacing="15" cellpadding="0">
+    <tbody>
+      <tr>
+        <td>
+        <p> 
+            💬 About me: <br/>
+            I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer<span> 
+            at <span property="affiliation">HXZH</span>.
+            Before joining HXZH, I also worked/interned with Keeko. <br/>
+            🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc <br/>
+            🔭 I’m currently working on abnormal defect detection and target detection <br/>
+            📫 How to reach me: <br/>
+            e-mail address->17746071609@163.com <br/>
+            blos's address-> https://www.cnblogs.com/lx17746071609/
+        </p>
+        </td>
+        <td width="45%">
+            <p align="left"> 
+                <img src="https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true&show_icons=true" alt="Linxu" /> 
+            </p>
+        </td>
+       </tr>
+    </tbody>
+    </table>
+    
 - -->
 
 <p> 
@@ -54,32 +78,17 @@ Here are some ideas to get you started:
 <a href="https:"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
+💬 About me: <br/>
+I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer
+at <span property="affiliation">HXZH.
+Before joining HXZH, I also worked/interned with Keeko. 
+🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc 
+🔭 I’m currently working on abnormal defect detection and target detection
+ 📫 How to reach me: 
+ e-mail address->17746071609@163.com 
+blos's address-> https://www.cnblogs.com/lx17746071609/
 
-<table width="100%" border="0" cellspacing="15" cellpadding="0">
-<tbody>
-  <tr>
-    <td>
-    <p> 
-        💬 About me: <br/>
-        I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer<span> 
-        at <span property="affiliation">HXZH</span>.
-        Before joining HXZH, I also worked/interned with Keeko. <br/>
-        🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc <br/>
-        🔭 I’m currently working on abnormal defect detection and target detection <br/>
-        📫 How to reach me: <br/>
-        e-mail address->17746071609@163.com <br/>
-        blos's address-> https://www.cnblogs.com/lx17746071609/
-    </p>
-    </td>
-    <td width="45%">
-        <p align="left"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true&show_icons=true" alt="Linxu" /> 
-        </p>
-    </td>
-   </tr>
-</tbody>
-</table>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true)
 
 
 
