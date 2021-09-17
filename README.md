@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - <p> 
     <a href="https://islinxu.github.io/"> <img src="https://img.shields.io/badge/&#8459-homepage-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Hang Zhang">
     </p> 
-
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true)
 - -->
 
 <p> 
@@ -83,4 +83,3 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true)
