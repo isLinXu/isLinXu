@@ -78,17 +78,10 @@ Here are some ideas to get you started:
 <a href="https:"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
-💬 About me: <br/>
-I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer
-at <span property="affiliation">HXZH.
-Before joining HXZH, I also worked/interned with Keeko. <br/>
-🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc <br/>
-🔭 I’m currently working on abnormal defect detection and target detection<br/>
- 📫 How to reach me: <br/>
- e-mail address->17746071609@163.com <br/>
-blos's address-> https://www.cnblogs.com/lx17746071609/
+| 💬 About me: <br/><br/>I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer<br/>at <span property="affiliation">HXZH.<br/>Before joining HXZH, I also worked/interned with Keeko. <br/><br/>🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc <br/><br/>🔭 I’m currently working on abnormal defect detection and target detection<br/><br/> 📫 How to reach me: <br/><br/> e-mail address->17746071609@163.com <br/><br/>blos's address-> https://www.cnblogs.com/lx17746071609/ | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true)
+
 
 
 
