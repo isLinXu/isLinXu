@@ -81,11 +81,11 @@ Here are some ideas to get you started:
 💬 About me: <br/>
 I am Lin Xu  (<span lang="zh-cn">林旭</span>), a <span property="tittle">AI Engineer
 at <span property="affiliation">HXZH.
-Before joining HXZH, I also worked/interned with Keeko. 
-🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc 
-🔭 I’m currently working on abnormal defect detection and target detection
- 📫 How to reach me: 
- e-mail address->17746071609@163.com 
+Before joining HXZH, I also worked/interned with Keeko. <br/>
+🌱 I’m currently learning OpenCV,Pytorch and Tensorflow etc <br/>
+🔭 I’m currently working on abnormal defect detection and target detection<br/>
+ 📫 How to reach me: <br/>
+ e-mail address->17746071609@163.com <br/>
 blos's address-> https://www.cnblogs.com/lx17746071609/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true)
