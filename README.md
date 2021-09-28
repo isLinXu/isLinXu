@@ -11,7 +11,7 @@
 </p> 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true)
+
 
 💬 About me: 
 I am Lin Xu  (林旭), a AI Engineer at HXZH.</br> 
