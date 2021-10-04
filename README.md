@@ -14,7 +14,7 @@
 
 
 💬 About me: 
-I am Lin Xu  (林旭), a AI Engineer at HXZH.</br> 
+I am Lin Xu, a AI Engineer at HXZH.</br> 
 Before joining HXZH, I also worked/interned with Keeko. </br> 
 🌱 I’m currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
 🔭 I’m currently working on abnormal defect detection and target detection.</br> 
