@@ -20,5 +20,7 @@ Before joining HXZH, I also worked/interned with Keeko. </br>
 e-mail address->17746071609@163.com </br> 
 blos's address-> https://www.cnblogs.com/lx17746071609/</br> 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isLinXu&repo=PytorchTemplateBuild)](https://github.com/isLinXu/PytorchTemplateBuild)
+
 ---
 
