@@ -9,7 +9,7 @@
 <a href="https:"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://https://github.com/isLinXu"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
-<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
+<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true" />
 
 
 
