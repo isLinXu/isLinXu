@@ -11,7 +11,10 @@
 </p> 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/isLinXu/count.svg" />
+</p>
 
 💬 About me: 
 I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
