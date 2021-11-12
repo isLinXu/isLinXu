@@ -20,7 +20,9 @@
 I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
 Before joining HXZH, I also worked/interned with Keeko Robot AI team. </br> 
 🌱 I’m currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
+🌱 I‘m interested in Generative networks and deep learning networks.</br> 
 🔭 I’m currently working on abnormal defect detection and target detection.</br> 
+
 📫 How to reach me: 
 e-mail address->17746071609@163.com </br> 
 blos's address-> https://www.cnblogs.com/lx17746071609/</br> 
