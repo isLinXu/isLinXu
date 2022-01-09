@@ -18,7 +18,7 @@
 
 💬 About me: 
 I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
-Before joining HXZH, I also worked/interned with Keeko Robot AI team. </br> 
+Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI team. </br> 
 🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
 🌱 Also interested in Generative networks and deep learning networks.</br> 
 🔭 And currently working on abnormal defect detection and target detection.</br> 
