@@ -9,18 +9,20 @@
 <a href="https:"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://https://github.com/isLinXu"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
+
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/isLinXu/count.svg" />
 </p>
+
 💬 About me: 
-I am **Lin Xu**, a AI Engineer at **Strait Intelligence Robot AI team**.</br> 
-Before joining Strait Intelligence, I also worked/interned with **Keeko Robot AI team**. </br> 
-🌱 currently learning **OpenCV**,**Pytorch** and **Tensorflow** .etc </br> 
-🌱 Also interested in **Generative networks** and **deep learning networks**.</br> 
-🔭 And working on abnormal **defect detection** and **object detection**.</br> 
+I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
+Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI team. </br> 
+🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
+🌱 Also interested in Generative networks and deep learning networks.</br> 
+🔭 And working on abnormal defect detection and object detection.</br> 
 
 ---
 
