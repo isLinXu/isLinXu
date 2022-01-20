@@ -25,4 +25,4 @@ Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI t
 
 📫 How to reach me: 
 e-mail address->17746071609@163.com </br> 
-blos's address-> https://www.cnblogs.com/lx17746071609/</br> 
+blos's address->https://islinxu.github.io/ and https://www.cnblogs.com/lx17746071609/</br> 
