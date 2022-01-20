@@ -15,13 +15,14 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/isLinXu/count.svg" />
 </p>
-
 💬 About me: 
-I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
-Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI team. </br> 
-🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
-🌱 Also interested in Generative networks and deep learning networks.</br> 
-🔭 And working on abnormal defect detection and target detection.</br> 
+I am **Lin Xu**, a AI Engineer at **Strait Intelligence Robot AI team**.</br> 
+Before joining Strait Intelligence, I also worked/interned with **Keeko Robot AI team**. </br> 
+🌱 currently learning **OpenCV**,**Pytorch** and **Tensorflow** .etc </br> 
+🌱 Also interested in **Generative networks** and **deep learning networks**.</br> 
+🔭 And working on abnormal **defect detection** and **object detection**.</br> 
+
+---
 
 📫 How to reach me: 
 e-mail address->17746071609@163.com </br> 
