@@ -14,7 +14,6 @@
 </p> 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
-[![isLinXu's GitHub stats](https://github-readme-stats.vercel.app/api?username=isLinXu)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
