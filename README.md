@@ -15,11 +15,10 @@
 </p> 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
-
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/isLinXu/count.svg" />
+  <img src=""https://github-profile-trophy.vercel.app/?username=isLinXu&theme=dark"" />
 </p>
+
 </p>
 
 <!-- <div align="center"> -->
