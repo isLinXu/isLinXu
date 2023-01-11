@@ -15,8 +15,13 @@
 </p> 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
-<p align="center"> 
-  <img src=""https://github-profile-trophy.vercel.app/?username=isLinXu&theme=dark"" />
+<p align="left"> 
+    💬 About me: 
+I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
+Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI team. </br> 
+🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
+🌱 Also interested in Generative networks and deep learning networks.</br> 
+🔭 And working on abnormal defect detection and object detection.</br> 
 </p>
 
 </p>
