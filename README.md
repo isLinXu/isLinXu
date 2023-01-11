@@ -20,6 +20,20 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/isLinXu/count.svg" />
 </p>
+</p>
+
+<!-- <div align="center"> -->
+
+<!--  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=isLinXu&theme=dark" alt="isLinXu"> </p> -->
+
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isLinXu&theme=dark" alt="so" > </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isLinXu&show_icons=true&locale=en&layout=compact&theme=dark" alt="isLinXu" > </p>
+
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&locale=en&theme=dark" alt="isLinXu" ></p>  -->
+
+
+
 💬 About me: 
 I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
 Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI team. </br> 
