@@ -36,7 +36,7 @@ Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI t
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isLinXu&theme=dark" alt="isLinXu" > </p>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isLinXu&show_icons=true&locale=en&layout=compact&theme=dark" alt="isLinXu" > </p>
+<p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.app/api/top-langs?username=isLinXu&show_icons=true&locale=en&layout=compact&theme=dark" alt="isLinXu" > </p>
 
 <!-- <p align="right"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.app/api?username=isLinXu&show_icons=true&locale=en&theme=dark" alt="isLinXu" ></p>  -->
 
