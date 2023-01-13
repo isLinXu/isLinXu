@@ -19,6 +19,12 @@
 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
+
+
+<img style="width: 50%" align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
+
+
+
 <p align="left"> 
     💬 About me: 
 I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
