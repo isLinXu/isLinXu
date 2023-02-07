@@ -19,9 +19,8 @@
 
 
 <p align="left"> 
-    💬 About me: 
-I am Lin Xu, a AI Engineer at Strait Intelligence Robot AI team.</br> 
-Before joining Strait Intelligence, I also worked/interned with Keeko Robot AI team. </br> 
+    💬 About me: I am Lin Xu, a AI Engineer at Tencent Youtu Lab.</br> 
+Before joining Tencent Youtu Lab, I also worked/interned with Keeko Robot AI team and Strait Intelligence Robot AI team. </br> 
 🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
 🌱 Also interested in Generative networks and deep learning networks.</br> 
 🔭 And working on abnormal defect detection and object detection.</br> 
