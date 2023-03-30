@@ -21,9 +21,9 @@
 <p align="left"> 
     💬 About me: I am Lin Xu, a AI Engineer at Tencent.</br> 
 Before joining Tencent, I also worked/interned with Keeko Robot AI team and Strait Intelligence Robot AI team. </br> 
-🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
-🌱 Also interested in Generative networks and deep learning networks.</br> 
-🔭 And working on abnormal defect detection and object detection.</br> 
+🌱 currently learning OpenCV,Pytorch and Tensorflo,PaddlePaddle and MindSpore.etc </br> 
+🌱 Also interested in Computer Vision and Deep Learning networks.</br> 
+🔭 And working on MultiModal Machine Learning (MMML) .</br> 
 </p>
 </p>
 
