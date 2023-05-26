@@ -13,27 +13,12 @@
 <a href="https:"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://www.linkedin.com/in/xu-lin-3b78a5251/"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
-
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isLinXu&theme=dark" alt="isLinXu" > </p>
 
 <img style="width: 50%" align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=isLinXu&theme=dark" alt="isLinXu">
 
-<p align="left"> 
-    💬 About me: I am Lin Xu, a AI Engineer at Tencent Youtu Lab.</br> 
-Before joining Tencent, I also worked/interned with Keeko Robot AI team and Strait Intelligence Robot AI team. </br> 
-🌱 currently learning OpenCV,Pytorch and Tensorflow,PaddlePaddle and MindSpore.etc </br> 
-🌱 Also interested in Computer Vision and Deep Learning networks.</br> 
-🔭 And working on MultiModal Machine Learning (MMML) .</br> 
-</p>
-</p>
-
-<!-- <div align="center"> -->
-
-<!--  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=isLinXu&theme=dark" alt="isLinXu"> </p> -->
-
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=isLinXu&theme=dark" alt="isLinXu" > </p>
-
-[![isLinXu's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=isLinXu&custom_title=isLinXu's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
