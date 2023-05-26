@@ -16,11 +16,12 @@
 </p> 
 
 
-<img style="width: 50%" align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
+<p align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=isLinXu&hide_border=true" />
+</p>
 	
-<img style="width: 45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=isLinXu&theme=dark" />
 	
-
 <p align="left"> 
 <img src="https://github-profile-trophy.vercel.app/?username=isLinXu&theme=dark" alt="isLinXu">
 </p>
