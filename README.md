@@ -15,6 +15,14 @@
 <a href="https://www.linkedin.com/in/xu-lin-3b78a5251/"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
 
+<p align="left"> 
+    💬 About me: I am Lin Xu, a AI Engineer at Tencent Youtu Lab.</br> 
+Before joining Tencent, I also worked/interned with Keeko Robot AI team and Strait Intelligence Robot AI team. </br> 
+🌱 currently learning OpenCV,Pytorch and Tensorflow,PaddlePaddle and MindSpore.etc </br> 
+🌱 Also interested in Computer Vision and Deep Learning networks.</br> 
+🔭 And working on MultiModal Machine Learning (MMML) .</br> 
+</p>
+</p>
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats-1-hja45xtgh-islinxu.vercel.app/api?username=isLinXu&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
