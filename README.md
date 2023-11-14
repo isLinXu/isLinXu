@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://github.com/isLinXu">
 	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Lin Xu;Researcher+%7C+AI+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
@@ -18,14 +17,14 @@
 
 <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
 
-
 <p align="left"> 
-    💬 About me: I am Lin Xu, a AI Engineer at Tencent.</br> 
-Before joining Tencent, I also worked/interned with Keeko Robot AI team and Strait Intelligence Robot AI team. </br> 
+    💬 About me: I am Lin Xu, a AI Engineer at <a href="https://open.youtu.qq.com">Tencent Youtu Lab</a>.</br> 
+Before joining Tencent, I also worked/interned with <a href="http://www.ikeeko.com/">Keeko Robot AI team</a> and <a href="http://www.straitrobot.com/">Strait Intelligence Robot AI team</a>. </br> 
 🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
 🌱 Also interested in Generative networks and deep learning networks.</br> 
 🔭 And working on abnormal defect detection and object detection.</br> 
 </p>
+
 </p>
 
 <!-- <div align="center"> -->
