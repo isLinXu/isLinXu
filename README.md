@@ -14,27 +14,19 @@
 <a href="https://www.linkedin.com/in/xu-lin-3b78a5251/"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
 
+<!--
+> <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
+-->
 
-<img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=isLinXu&show_icons=true&hide_border=true&count_private=true" />
-
-<p align="left"> 
-    💬 About me: I am Lin Xu, a AI Engineer at <a href="https://open.youtu.qq.com">Tencent Youtu Lab</a>.</br> 
-Before joining Tencent, I also worked/interned with <a href="http://www.ikeeko.com/">Keeko Robot AI team</a> and <a href="http://www.straitrobot.com/">Strait Intelligence Robot AI team</a>. </br> 
-🌱 currently learning OpenCV,Pytorch and Tensorflow .etc </br> 
-🌱 Also interested in Generative networks and deep learning networks.</br> 
-🔭 And working on abnormal defect detection and object detection.</br> 
+<p align = "center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wangrongsheng" /> -->
+  
+<img src="https://github-readme-stats.vercel.app/api?username=isLinXu&count_private=true&show_icons=true&hide_border=true" />
 </p>
 
+<p align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isLinXu&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
 </p>
-
-<!-- <div align="center"> -->
-
-
-​	
-<p align="left"> 
-<img src="https://github-profile-trophy.vercel.app/?username=isLinXu&theme=dark" alt="isLinXu">
-</p>
-
 
 ---
 
