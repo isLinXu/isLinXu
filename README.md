@@ -5,7 +5,6 @@
 
 <p> 
 <a href="https://github.com/isLinXu"> <img src="https://komarev.com/ghpvc/?username=isLinXu&color=blue" height="25px" alt="github follow" /> </a>
-<a href="https://github.com/isLinXu?tab=followers"> <img src="https://img.shields.io/github/followers/isLinXu?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
 <a href="https://islinxu.github.io/"> <img src="https://img.shields.io/badge/homepage-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Lin Xu">
 <a href="https://scholar.google.com/citations?user=oTYM_I8AAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
 <a href="mailto:linxu.official@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
