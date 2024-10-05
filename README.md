@@ -13,13 +13,4 @@
 
 ---
 
-📫 How to reach me: 
-e-mail address->islinxu@163.com </br> 
-blos's address->https://islinxu.github.io/</br> 
-
-
-<p align="center">
-  <img src="https://github.com/isLinXu/isLinXu/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 
