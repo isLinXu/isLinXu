@@ -55,7 +55,7 @@
 ---
 ### 🔬 Research Focus & Tech Stack
 
-I am an AI researcher focused on the **efficiency and scalability of Multimodal Large Language Models (MMLMs)**.
+I am an AI researcher focused on the **efficiency and scalability of Multimodal Large Language Models (MLLMs)**.
 
 - 🔭 **Focus:** Optimizing **Multimodal Training & Inference** pipelines.
 - 🤝 **Contributing to:** **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** and **[Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)**.
